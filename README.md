@@ -24,6 +24,6 @@ Jade
 
 Twitter Bootstrap
 * Download page (http://getbootstrap.com/2.3.2/)
-* 
+
 Sublime Text
 
