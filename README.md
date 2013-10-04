@@ -6,24 +6,25 @@ bhajan-db
 ##### Resources:
 
 Node.js
-* Download page (http://nodejs.org/download/)
+* Install (http://nodejs.org/download/)
+* Understanding Node.js (http://debuggable.com/posts/understanding-node-js)
+* Resources for Learning Node (http://danjsync.blogspot.com/2013/02/resources-for-learning-nodejs.html)
 
 Express
 * Project homepage (http://expressjs.com/)
 * Understanding Express.js (http://evanhahn.com/understanding-express-js/)
 
 Git
-* Download page (http://git-scm.com/downloads)
-
+* Install (http://git-scm.com/downloads)
+* Git Workflow (http://scottchacon.com/2011/08/31/github-flow.html)
+* Git Interactive Tutorial (http://pcottle.github.io/learnGitBranching/?NODEMO)
 
 MongoDB
-* Downloaad page (http://www.mongodb.org/downloads)
+* Install (http://www.mongodb.org/downloads)
+* Node MongoDB Driver (https://github.com/mongodb/node-mongodb-native)
 
 Jade
-
+* Tutorial (http://jade-lang.com/tutorial/)
 
 Twitter Bootstrap
-* Download page (http://getbootstrap.com/2.3.2/)
-
-Sublime Text
-
+* Overview (http://getbootstrap.com/css/)
